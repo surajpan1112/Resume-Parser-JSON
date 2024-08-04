@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  
 import json
 
 def extract_resume_text(pdf_path):
@@ -10,7 +10,7 @@ def extract_resume_text(pdf_path):
     return text
 
 def parse_resume_text(text):
-    # This is a simplified example; you might need more complex parsing.
+  
     resume_json = {
         "Contact Information": {
             "Name": "John Doe",
