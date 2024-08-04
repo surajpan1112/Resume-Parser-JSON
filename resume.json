@@ -1,0 +1,35 @@
+{
+    "Contact Information": {
+        "Name": "John Doe",
+        "Email": "john.doe@example.com",
+        "Phone": "123-456-7890",
+        "LinkedIn": "https://www.linkedin.com/in/johndoe",
+        "GitHub": "https://github.com/johndoe"
+    },
+    "Summary": "Experienced software developer with a strong background in Python and web development.",
+    "Skills": [
+        "Python",
+        "JavaScript",
+        "HTML/CSS"
+    ],
+    "Experience": [
+        {
+            "Job Title": "Software Developer",
+            "Company": "Tech Solutions Inc.",
+            "Location": "New York, NY",
+            "Dates": "Jan 2020 - Present",
+            "Responsibilities": [
+                "Developed web applications using Django.",
+                "Collaborated with the front-end team on UI/UX improvements."
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "Degree": "Bachelor of Science in Computer Science",
+            "Institution": "University of Tech",
+            "Location": "Los Angeles, CA",
+            "Dates": "Sep 2015 - Jun 2019"
+        }
+    ]
+}
